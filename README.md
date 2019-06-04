@@ -1,4 +1,1 @@
-# Answer Of LeetCode
-## Github  https://github.com/AlbertWang0416/LeetCodeResult.git
-## 简书 https://www.jianshu.com/u/41bc05412192
-### 这个仓库是我再LeetCode解题的答案，我的答案不是最权威的，路过的客官参考参考便可。有些答案不够精简或者说性能不够好，日后会慢慢优化！
+### 这是我联系算法和数据结构的。O(∩_∩)O哈哈~
